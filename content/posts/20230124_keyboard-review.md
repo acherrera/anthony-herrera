@@ -1,6 +1,6 @@
 Title: My First Review
 Date: 2023-01-24 7:27
-Category: Review
+Category: Reviews
 Tags: Reviews, Keyboard
 Slug: keychron-k2-review
 Author: Anthony Herrera
