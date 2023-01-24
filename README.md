@@ -11,7 +11,7 @@ create a static website.
 Run the website with this: 
 
 ```
-pelican content -s pelicanconf.py -t ./templates/
+pelican content -s pelicanconf.py -t ./themes/notmyidea/ -r -l
 ```
 
 ### 20230124 - First Starting
