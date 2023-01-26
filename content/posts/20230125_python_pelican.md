@@ -30,3 +30,4 @@ A module to create a static website from scratch. No databases, no users, just s
 * e-commerce tools - what do I need these for?
 * user sign up and comments - what do I need these for?
 * Per user customization - I'm not creating Facebook here, just putting some thoughts and ideas up
+* User counter dislayed on page (would be nice)
