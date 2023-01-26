@@ -1,4 +1,4 @@
-Title: My First Review
+Title: KeyChron K2 Review
 Date: 2023-01-24 7:27
 Category: Reviews
 Tags: Reviews, Keyboard

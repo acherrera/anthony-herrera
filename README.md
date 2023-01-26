@@ -16,7 +16,7 @@ pelican content -s pelicanconf.py -t ./themes/notmyidea/ -r -l
 The website can be deployed with the following commands:
 
 ```
-pelican content -s pelicanconf.py -t ./themes/notmyidea/ -r -l
+pelican content -s pelicanconf.py -t ./themes/notmyidea/
 aws s3 cp ./output/ s3://anthony-herrera.com --recursive
 ```
 
