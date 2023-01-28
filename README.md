@@ -32,6 +32,26 @@ when starting new projects to see where other projects failed and how to avoid t
 time.
 
 
+### 20230128 - We're Live!
+
+Somethings in programming there are sentences that feel completely made up or foreign. After waiting for two days for 
+the DNS servers to propagate the route53 record updates to point to the new name servers, I got bored and just rolled
+with the CloudFLare setup that I had done previously. See that sentence? Wild. Less technical - didn't work after two
+days so I just pointed the existing config to the new location. And it worked. Not only did it work, it appears to have
+given me the following: 
+    * DDOS protection
+    * better security for the S3 bucket where the site is hosted
+    * SSL certification and analytics. 
+    * bot blocking / challenging
+    * Easy region restricting
+    * site caching
+    * and a lot more
+
+Accidentally. So that's amazing.
+
+
+
+
 ### 20230126 - Going Live Again!
 
 Created the output directory and uploaded files to AWS S3. Updated documentation to show how to do 
