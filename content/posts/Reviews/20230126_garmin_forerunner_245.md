@@ -1,6 +1,5 @@
 Title: Garmin Forerunner 245 Review
 Date: 2023-01-26 17:39
-Category: Reviews
 Tags: Reviews, Outdoors, Cycling, Activities, Fitness
 Slug: garmin-forerunner-245-review
 Author: Anthony Herrera

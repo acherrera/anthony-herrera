@@ -1,6 +1,5 @@
 Title: Python Pelican Getting Started
 Date: 2023-01-25 15:50
-Category: Programming
 Tags: Programmming, Update, Website
 Slug: python-pelican-website-starting
 Author: Anthony Herrera
