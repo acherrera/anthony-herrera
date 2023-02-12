@@ -20,7 +20,7 @@ A module to create a static website from scratch. No databases, no users, just s
 * Simple
 * Cheap (no databases, just store the files)
 * Easy - single line updates
-* "from scratch" - no services to sign up for, just wrtie, build and deploy
+* "from scratch" - no services to sign up for, just write, build and deploy
 * Nice organization - menu items added based on Categories 
 * Github storage - I like Github
 
@@ -29,4 +29,4 @@ A module to create a static website from scratch. No databases, no users, just s
 * E-commerce tools - what do I need these for?
 * User sign up and comments - what do I need these for?
 * Per user customization - I'm not creating Facebook here, just putting some thoughts and ideas up
-* User counter dislayed on page (would be nice)
+* User counter displayed on page (would be nice)
