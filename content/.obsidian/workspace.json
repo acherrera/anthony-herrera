@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "60b2639ded2244ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "247d4cea385c5364",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ee54e10df8b7cae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/Reviews/Garmin_Forerunner_245_Review.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa79793544875527",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8f1323d46437523",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0770f6e6839ccc13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "612937249cb09c8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0eb1ddf94255ebe8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1862b24e998541d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "538103b788dd1a6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72836f1eeddcc1ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/Reviews/Garmin_Forerunner_245_Review.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14a2c1f7247df4a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/Reviews/Garmin_Forerunner_245_Review.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8023ebaa4d577f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "114441daeb056ffd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/Reviews/Garmin_Forerunner_245_Review.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3ee54e10df8b7cae",
+  "lastOpenFiles": [
+    "posts/Reviews/Garmin_Forerunner_245_Review.md",
+    "posts/Reviews/20230126_garmin_forerunner_245.md",
+    "posts/Reviews/20230124_keyboard-review.md",
+    "posts/Programming/20230130_vim_thoughts.md",
+    "posts/Programming/20230129_static_vs_dynamic_sites.md",
+    "posts/Programming/20230125_python_pelican.md",
+    "posts/Programming/20230326_documentation.md",
+    "posts/Other/20230307_bike_commuting.md",
+    "pages/20230124_about.md",
+    "images/basic_dynamic.jpg",
+    "Pages/20230124_about.md",
+    "pages",
+    "templates/Template.md",
+    "templates",
+    "images/dynamic_updated_static.jpg",
+    "images/database_backed_dynamic.jpg",
+    "images/basic_static.jpg",
+    "Areas/Areas.md",
+    "Areas/Artificial_Intelligence/artificial_intelligence.md",
+    "Areas/Artificial_Intelligence/SPQA AI based Architecture.md",
+    "Areas/Artificial_Intelligence/6 Phases Post GPT.md",
+    "Areas/Areas.md~"
+  ]
+}

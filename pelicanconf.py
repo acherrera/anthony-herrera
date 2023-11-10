@@ -28,6 +28,8 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
 
-# GOOGLE_ANALYTICS=
+#RELATIVE_URLS = True
+GOOGLE_ANALYTICS = 'G-2VE7CHY0WH'
+
+IGNORE_FILES = ['templates']
