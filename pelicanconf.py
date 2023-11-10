@@ -1,6 +1,17 @@
 AUTHOR = 'Anthony Herrera'
 SITENAME = 'Anthony Herrera'
-SITEURL = ''
+
+# SITEURL = '/posts'
+# OUTPUT_PATH = 'output/blog'
+# PAGE_URL = '../{slug}.html'
+# PAGE_SAVE_AS = '../{slug}.html'
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
+MENUITEMS = [
+        ('Home', '/'),
+        ('Programming', '/category/programming.html'),
+        ('About Me', '/pages/about-me.html')
+        ]
 
 PATH = 'content'
 
@@ -18,12 +29,8 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),
          ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
-
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+         ('Jinja2', 'https://palletsprojects.com/p/jinja/')
+         )
 
 DEFAULT_PAGINATION = False
 

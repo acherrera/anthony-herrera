@@ -1,6 +1,6 @@
 ---
 Title: TITLE HERE
-Date: 2023-01-24 7:40
+Date: <% tp.date.now("yyyy-MM-DD HH:mm") %> 
 Slug: website-slug
 Author: Anthony Herrera
 Summary: summary

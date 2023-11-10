@@ -2,5 +2,6 @@
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
   "alwaysUpdateLinks": true,
-  "vimMode": true
+  "vimMode": true,
+  "showUnsupportedFiles": true
 }
