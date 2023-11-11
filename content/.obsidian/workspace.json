@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/programming/20231010_AWS_CLI_Install.md",
+                "file": "posts/reviews/20231111_keychron_k2_review.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/programming/20231010_AWS_CLI_Install.md",
+                "file": "posts/reviews/20231111_keychron_k2_review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/programming/20231010_AWS_CLI_Install.md",
+                "file": "posts/reviews/20231111_keychron_k2_review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/programming/20231010_AWS_CLI_Install.md"
+                "file": "posts/reviews/20231111_keychron_k2_review.md"
               }
             }
           }
@@ -147,10 +147,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0770f6e6839ccc13",
+  "active": "3ee54e10df8b7cae",
   "lastOpenFiles": [
-    "pages/home.md",
+    "posts/reviews/2021110_Garmin_Forerunner_245_Review.md",
+    "posts/reviews/20231111_keychron_k2_review.md",
     "posts/programming/20231010_AWS_CLI_Install.md",
+    "pages/home.md",
     "pages/about_me.md",
     "{filename}programming_home_page.md",
     "pages/programming",
@@ -164,7 +166,6 @@
     "Programming Home Page.md",
     "posts/programming",
     "posts/Reviews/Untitled",
-    "posts/reviews/Garmin_Forerunner_245_Review.md",
     "posts/Reviews/20230126_garmin_forerunner_245.md",
     "posts/Reviews/20230124_keyboard-review.md",
     "posts/Programming/20230130_vim_thoughts.md",

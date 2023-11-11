@@ -10,6 +10,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [
         ('Home', '/'),
         ('Programming', '/category/programming.html'),
+        ('Reviews', '/category/reviews.html'),
         ('About Me', '/pages/about-me.html')
         ]
 
@@ -27,7 +28,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
+LINKS = (('Github', 'https://github.com/acherrera'),
          ('Python.org', 'https://www.python.org/'),
          ('Jinja2', 'https://palletsprojects.com/p/jinja/')
          )
