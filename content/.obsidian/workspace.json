@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "247d4cea385c5364",
+        "id": "10aead32eb1b9ca8",
         "type": "tabs",
         "children": [
           {
-            "id": "3ee54e10df8b7cae",
+            "id": "c244d8529fcd26fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/reviews/20231111_keychron_k2_review.md",
+                "file": "posts/other/20231111_Bolnagri_Keyboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/reviews/20231111_keychron_k2_review.md",
+                "file": "posts/other/20231111_Bolnagri_Keyboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/reviews/20231111_keychron_k2_review.md",
+                "file": "posts/other/20231111_Bolnagri_Keyboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/reviews/20231111_keychron_k2_review.md"
+                "file": "posts/other/20231111_Bolnagri_Keyboard.md"
               }
             }
+          },
+          {
+            "id": "3d9fe9289dcb5883",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,20 +152,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ee54e10df8b7cae",
+  "active": "0770f6e6839ccc13",
   "lastOpenFiles": [
-    "posts/reviews/2021110_Garmin_Forerunner_245_Review.md",
-    "posts/reviews/20231111_keychron_k2_review.md",
-    "posts/programming/20231010_AWS_CLI_Install.md",
-    "pages/home.md",
     "pages/about_me.md",
+    "pages/home.md",
+    "{category}other.md",
+    "pages/programming_home_page.md",
+    "posts/other/20231111_Bolnagri_Keyboard.md",
+    "images/bolnagri_keyboard.png",
+    "{filepath}tags.html.md",
+    "posts/other/assets",
+    "posts/other",
+    "posts/programming/Programming_test_page.md",
+    "posts/programming/20231010_AWS_CLI_Install.md",
+    "posts/reviews/20231111_keychron_k2_review.md",
+    "posts/reviews/2021110_Garmin_Forerunner_245_Review.md",
     "{filename}programming_home_page.md",
     "pages/programming",
-    "pages/programming_home_page.md",
-    "posts/programming/Programming_test_page.md",
     "images/dynamic_updated_static.jpg",
     "images/database_backed_dynamic.jpg",
     "images/basic_static.jpg",

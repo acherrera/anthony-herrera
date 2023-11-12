@@ -11,14 +11,16 @@ Summary: Welcome to the homepage!
 
 Welcome to my site!
 
-### Posts
+## Posts
 
 Different things I write about:
 
-[Reviews]({category}reviews)
+[Reviews]({category}reviews) : Reviews of things I've used or done
+ 
+[Programming]({category}programming) : Notes on programming
 
-[Programming]({category}programming)
+[Other]({category}other) : Notes on programming
 
-#### Pages
+## Pages
 
 About Me: [About Me]({filename}about_me.md)

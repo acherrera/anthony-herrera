@@ -3,5 +3,7 @@
   "newLinkFormat": "relative",
   "alwaysUpdateLinks": true,
   "vimMode": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true
 }
