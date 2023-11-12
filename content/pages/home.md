@@ -19,7 +19,7 @@ Different things I write about:
  
 [Programming]({category}programming) : Notes on programming
 
-[Other]({category}other) : Notes on programming
+[Other]({category}other) : Notes on other things
 
 ## Pages
 

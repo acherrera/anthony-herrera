@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/other/20231111_Bolnagri_Keyboard.md",
+                "file": "pages/home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/other/20231111_Bolnagri_Keyboard.md",
+                "file": "pages/home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/other/20231111_Bolnagri_Keyboard.md",
+                "file": "pages/home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/other/20231111_Bolnagri_Keyboard.md"
+                "file": "pages/home.md"
               }
             }
           },
@@ -156,13 +156,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0770f6e6839ccc13",
+  "active": "c244d8529fcd26fe",
   "lastOpenFiles": [
+    "pages/programming_home_page.md",
+    "posts/other/20231111_Bolnagri_Keyboard.md",
     "pages/about_me.md",
     "pages/home.md",
     "{category}other.md",
-    "pages/programming_home_page.md",
-    "posts/other/20231111_Bolnagri_Keyboard.md",
     "images/bolnagri_keyboard.png",
     "{filepath}tags.html.md",
     "posts/other/assets",
