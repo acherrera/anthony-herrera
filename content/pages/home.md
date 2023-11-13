@@ -25,4 +25,4 @@ Different things I write about:
 
 [About Me]({filename}about_me.md)
 
-[Recipes]({filename}recipe_homepage.md)
+[Recipes]({filename}recipes_homepage.md)
