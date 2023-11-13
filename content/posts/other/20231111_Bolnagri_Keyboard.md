@@ -1,7 +1,7 @@
 ---
 Title: Bolnagri Keyboard Layout
 Date: 2023-11-11 18:10
-Slug: Hindi Basics
+Slug: bolnargi_keyboard_layout
 Author: Anthony Herrera
 Summary: Short post going over the basics of Hindi
 Tags: hindi, language, learning

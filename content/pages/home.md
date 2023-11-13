@@ -23,4 +23,6 @@ Different things I write about:
 
 ## Pages
 
-About Me: [About Me]({filename}about_me.md)
+[About Me]({filename}about_me.md)
+
+[Recipes]({filename}recipe_homepage.md)
