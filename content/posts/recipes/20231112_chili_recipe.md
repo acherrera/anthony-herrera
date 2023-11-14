@@ -2,7 +2,7 @@
 Title: Chili Recipe
 Date: 2023-11-12
 Slug: chili_recipe
-Tags: food, instant_post, recipe
+Tags: food, instant_pot, recipe
 Author: Anthony Herrera
 Summary: A Recipe for Chili
 ---

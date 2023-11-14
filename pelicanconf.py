@@ -32,7 +32,8 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),
          ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/')
+         ('Support Me',
+          'https://www.paypal.com/donate/?business=9QGFP5S2M4BZU&no_recurring=0&item_name=If+you+value+what+I%27ve+provided%2C+consider+leaving+me+a+bit+of+money+so+I+can+do+this+some+more.&currency_code=USD ')
          )
 
 DEFAULT_PAGINATION = False

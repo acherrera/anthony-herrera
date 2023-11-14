@@ -9,4 +9,14 @@ Summary: This is the home page for recipes!
 
 # Instant Pot
 
-[Chili Recipe]({filename}../posts/recipes/20231112_chili_recipe.md)
+Things that can be made in an instant Pot.
+
+[Chili Recipe]({filename}../posts/recipes/20231112_chili_recipe.md) : Meaty, thick and good.
+
+[Spaghetti Squash]({filename}../posts/recipes/20231113_spaghetti_squash.md) : Noodles. From a squash.
+
+# Bread
+
+These are more bread based.
+
+[Chapati]({filename}../posts/recipes/20231113_chapati.md) : Like a thick, Indian tortilla
