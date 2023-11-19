@@ -1,7 +1,7 @@
 ---
 Title: KeyChron K2 Review
 Date: 2023-01-24 7:27
-Tags: Reviews
+Tags: reviews
 Slug: keychron-k2-review
 Author: Anthony Herrera
 Summary: Thoughts on the Keychron K2

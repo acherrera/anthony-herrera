@@ -1,7 +1,7 @@
 ---
 Title: Garmin Forerunner 245 Review
 Date: 2023-01-26 17:39
-Tags: Reviews 
+Tags: reviews 
 Slug: garmin_forerunner_245_review
 Author: Anthony Herrera
 Summary: Thoughts on Garmin Forerunner 245

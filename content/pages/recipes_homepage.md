@@ -20,3 +20,5 @@ Things that can be made in an instant Pot.
 These are more bread based.
 
 [Chapati]({filename}../posts/recipes/20231113_chapati.md) : Like a thick, Indian tortilla
+
+[Coffee Cake]({filename}../posts/recipes/20231119_coffe_cake.md) : Cinnamon Sugar coffee cake without too much sugar.
