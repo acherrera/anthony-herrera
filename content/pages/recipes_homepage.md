@@ -15,6 +15,8 @@ Things that can be made in an instant Pot.
 
 [Spaghetti Squash]({filename}../posts/recipes/20231113_spaghetti_squash.md) : Noodles. From a squash.
 
+[Butternut Squash Soup]({filename}../posts/recipes/20231203_butternut_squash_soup.md) : Quick easy and good soup.
+
 # Bread
 
 These are more bread based.
