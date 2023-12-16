@@ -13,12 +13,17 @@ Things that can be made in an instant Pot.
 
 [Chili Recipe]({filename}../posts/recipes/20231112_chili_recipe.md) : Meaty, thick and good.
 
+[Chili Recipe]({filename}../posts/recipes/20231112_chili_recipe.md) : Veggie, thick and good.
+
 [Spaghetti Squash]({filename}../posts/recipes/20231113_spaghetti_squash.md) : Noodles. From a squash.
 
 [Butternut Squash Soup]({filename}../posts/recipes/20231203_butternut_squash_soup.md) : Quick easy and good soup.
 
 [Butter Chicken]({filename}../posts/recipes/20231216_butter_chicken.md) : Chicken and butter. Indian food made in the
 instant pot.
+
+[Vegetarian Chili]({filename}../posts/recipes/20231216_vegetarian_chili.md) : Very good vegetarian chili.
+
 
 # Bread
 
