@@ -17,6 +17,9 @@ Things that can be made in an instant Pot.
 
 [Butternut Squash Soup]({filename}../posts/recipes/20231203_butternut_squash_soup.md) : Quick easy and good soup.
 
+[Butter Chicken]({filename}../posts/recipes/20231216_butter_chicken.md) : Chicken and butter. Indian food made in the
+instant pot.
+
 # Bread
 
 These are more bread based.
