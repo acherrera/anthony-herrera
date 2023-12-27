@@ -21,6 +21,8 @@ jobs:
           pip install -r requirements.txt
       - name: build website
         run: pelican content -s pelicanconf.py -t ./themes/notmyidea/
+        env:
+          PYTHONPATH: '.'
 
       - name: Upload to S3
         run: |
@@ -29,5 +31,4 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: 'us-east-2'
-          PYTHONPATH: '.'
 
