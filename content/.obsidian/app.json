@@ -1,6 +1,6 @@
 {
-  "useMarkdownLinks": true,
-  "newLinkFormat": "relative",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
   "alwaysUpdateLinks": true,
   "vimMode": true,
   "showUnsupportedFiles": true,

@@ -23,6 +23,6 @@ Different things I write about:
 
 ## Pages
 
-[Recipes]({filename}recipes_homepage.md) : Recipes!
+[[Recipes| Recipes]] : Recipes!
  
-[About Me]({filename}about_me.md) : Who I am
+[[About Me|About Me]]: Who I am

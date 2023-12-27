@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/home.md",
+                "file": "pages/Recipes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/home.md",
+                "file": "pages/Recipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/home.md",
+                "file": "pages/Recipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/home.md"
+                "file": "pages/Recipes.md"
               }
             }
           },
@@ -158,10 +158,23 @@
   },
   "active": "c244d8529fcd26fe",
   "lastOpenFiles": [
-    "pages/programming_home_page.md",
+    "pages/About Me.md",
+    "pages/Home.md",
+    "pages/Programming Home Page.md",
+    "pages/Recipes.md",
+    "posts/recipes/Crepes.md",
+    "posts/recipes/Vegetarian Chili.md",
+    "posts/recipes/Butter Chicken.md",
+    "posts/recipes/Butternut Squash Soup.md",
+    "posts/recipes/Coffee Cake.md",
+    "posts/recipes/Spaghetti Squash.md",
+    "posts/recipes/Chapati.md",
+    "posts/recipes/Chili.md",
+    "pages",
+    "images/Untitled",
+    "{category}reviews.md",
+    "{filename}recipes_homepage.md",
     "posts/other/20231111_Bolnagri_Keyboard.md",
-    "pages/about_me.md",
-    "pages/home.md",
     "{category}other.md",
     "images/bolnagri_keyboard.png",
     "{filepath}tags.html.md",
@@ -183,18 +196,8 @@
     "posts/Reviews/Untitled",
     "posts/Reviews/20230126_garmin_forerunner_245.md",
     "posts/Reviews/20230124_keyboard-review.md",
-    "posts/Programming/20230130_vim_thoughts.md",
-    "posts/Programming/20230129_static_vs_dynamic_sites.md",
-    "posts/Programming/20230125_python_pelican.md",
-    "posts/Programming/20230326_documentation.md",
-    "posts/Other/20230307_bike_commuting.md",
-    "Pages/20230124_about.md",
     "pages",
     "templates",
-    "Areas/Areas.md",
-    "Areas/Artificial_Intelligence/artificial_intelligence.md",
-    "Areas/Artificial_Intelligence/SPQA AI based Architecture.md",
-    "Areas/Artificial_Intelligence/6 Phases Post GPT.md",
     "Areas/Areas.md~"
   ]
 }

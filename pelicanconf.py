@@ -1,3 +1,6 @@
+# from pelican.plugins import obsidian
+from plugins.obsidian import obsidian
+
 AUTHOR = 'Anthony Herrera'
 SITENAME = 'Anthony Herrera'
 
@@ -12,9 +15,14 @@ MENUITEMS = [
         ('Programming', '/category/programming.html'),
         ('Other', '/category/other.html'),
         ('Tags', '/tags.html'),
-        ('Recipes', '/pages/recipes_homepage.html'),
-        ('About Me', '/pages/about-me.html')
+        ('Recipes', '/pages/recipes.html'),
+        ('About Me', '/pages/about_me.html')
         ]
+
+PLUGIN_PATHS = ["./plugins/"]
+PLUGINS = [
+    'obsidian',
+]
 
 PATH = 'content'
 
