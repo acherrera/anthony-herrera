@@ -8,9 +8,7 @@ from pelican.readers import MarkdownReader
 from pelican.utils import pelican_open
 
 from markdown import Markdown
-import logging
 
-logger = logging.getLogger(__name__)
 
 ARTICLE_PATHS = {}
 FILE_PATHS = {}
