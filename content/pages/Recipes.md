@@ -1,9 +1,9 @@
 ---
 Title: Recipe Home Page
 Date: 2023-11-12
-Tags: homepage, recipes
 Slug: recipes
 Author: Anthony Herrera
+tags: homepage, recipe
 Summary: This is the home page for recipes!
 ---
 
@@ -21,6 +21,8 @@ Things that can be made in an instant Pot.
 
 [[Butter Chicken]]: Chicken and butter. Indian food made in the
 instant pot.
+
+[[Chicken Tikka Masala]]: Chicken Tikka Masala recipe. Pretty good.
 
 # Bread
 

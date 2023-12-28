@@ -3,6 +3,7 @@ Title: About Me
 Date: 2023-01-24 7:40
 Slug: about_me
 Author: Anthony Herrera
+tags: homepage
 Summary: Some Information About Anthony Herrera
 ---
 

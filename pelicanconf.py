@@ -12,10 +12,10 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [
         ('Home', '/'),
-        ('Programming', '/category/programming.html'),
-        ('Other', '/category/other.html'),
-        ('Tags', '/tags.html'),
+        ('Programming', '/pages/programming_homepage.html'),
         ('Recipes', '/pages/recipes.html'),
+        ('Other', '/pages/unsorted_notes.html'),
+        ('Tags', '/tags.html'),
         ('About Me', '/pages/about_me.html')
         ]
 
@@ -51,4 +51,4 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 GOOGLE_ANALYTICS = 'G-2VE7CHY0WH'
 
-IGNORE_FILES = ['templates']
+IGNORE_FILES = ['templates', 'drafts']

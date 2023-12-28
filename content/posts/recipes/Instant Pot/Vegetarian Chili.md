@@ -2,11 +2,10 @@
 Title: Vegetarian Chili Recipe
 Date: 2023-12-16
 Slug: vegetarian chili recipe
-Tags: food, instant_pot, recipe, vegatarian
+tags: food, instant_pot, recipe, vegetarian
 Author: Anthony Herrera
 Summary: A Recipe for Vegetarian Chili
 ---
-
 
 # Vegetarian Chili
 ****

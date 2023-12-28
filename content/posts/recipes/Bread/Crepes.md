@@ -2,7 +2,7 @@
 Title: Crepe Recipe
 Date: 2023-12-19
 Slug: crepe_recipe
-Tags: receipes, food
+tags: food, recipe
 Author: Anthony Herrera
 Summary: Crepe recipe that I like
 ---

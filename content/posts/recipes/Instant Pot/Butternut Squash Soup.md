@@ -7,7 +7,6 @@ Author: Anthony Herrera
 Summary: A recipe for butternut squash soup that is quick and easy.
 ---
 
-
 # Instant Pot Butternut Squash Soup
 
 Found the initial recipe online somewhere. Have made a few times and it's pretty good. Note that at the end everything.

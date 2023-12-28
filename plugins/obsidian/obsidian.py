@@ -9,7 +9,6 @@ from pelican.utils import pelican_open
 
 from markdown import Markdown
 
-
 ARTICLE_PATHS = {}
 FILE_PATHS = {}
 
@@ -49,8 +48,8 @@ class ObsidianMarkdownReader(MarkdownReader):
         """
         Filters all text and replaces matching links with the correct format for pelican. NOTE - this parses all text.
         Args: 
-            text: the matching text that should be replaced.
-        Return: text with the corret link structure.
+            text: Text for entire page
+        Return: text with links replaced if possible
         """
         def link_replacement(match):
             filename, linkname = get_file_and_linkname(match)
@@ -76,13 +75,14 @@ class ObsidianMarkdownReader(MarkdownReader):
 
             return link_structure
 
+
         text = file_re.sub(file_replacement, text)
         text = link_re.sub(link_replacement, text)
         return text
 
     def read(self, source_path):
         """
-        Parse content and metadata of markdown files. It also changes the links to the acceptable format for pelican
+        Parse content and metadata of markdown files. Also changes the links to the acceptable format for pelican
         """
 
         self._source_path = source_path
@@ -122,11 +122,11 @@ def populate_files_and_articles(article_generator):
         filename, ext = os.path.splitext(filename_w_ext)
         path = str(full_path).replace(str(base_path), '') + '/'
 
-        # This will page both posts and pages
+        # This work on both pages and posts/articles
         ARTICLE_PATHS[filename] = path
 
 
-    # Get list of all other files
+    # Get list of all other relavant files 
     globs = [base_path.glob('**/*.{}'.format(ext)) for ext in ['png', 'jpg', 'svg', 'apkg', 'gif']]
     files = chain(*globs)
     for _file in files:
@@ -141,7 +141,8 @@ def modify_generator(generator):
 
 def modify_metadata(article_generator, metadata):
     """
-    Modify the tags so we can define the tags as we are used to in obsidian.
+    Modifis the tags names to remove the `#` in the tag.
+    Example: #homepage => homepage
     """
     for tag in metadata.get('tags', []):
         if '#' in tag.name:

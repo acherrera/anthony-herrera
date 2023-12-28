@@ -2,7 +2,7 @@
 Title: Chapati Recipe
 Date: 2023-11-13
 Slug: chapati_recipe
-Tags: food, recipe, vegetarian, bread
+tags: ,food, recipe, vegetarian, bread
 Author: Anthony Herrera
 Summary: How to make chapati
 ---

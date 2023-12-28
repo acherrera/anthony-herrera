@@ -8,15 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c244d8529fcd26fe",
+            "id": "481594a1631ecce5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Recipes.md",
+                "file": "posts/reviews/Keychron K2 Keyboard Review.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "689f0cefd1b2c127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f5b05ffbd8dd03e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Recipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Recipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +126,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -124,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pages/Recipes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,48 +166,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c244d8529fcd26fe",
+  "active": "8f5b05ffbd8dd03e",
   "lastOpenFiles": [
+    "posts/reviews/Keychron K2 Keyboard Review.md",
+    "posts/reviews/Garmin Forerunner 245 Review.md",
+    "posts/recipes/Instant Pot/Vegetarian Chili.md",
+    "posts/recipes/Instant Pot/Spaghetti Squash.md",
+    "posts/recipes/Instant Pot/Chili.md",
+    "posts/recipes/Instant Pot/Chicken Tikka Masala.md",
+    "posts/recipes/Instant Pot/Butternut Squash Soup.md",
+    "posts/recipes/Instant Pot/Butter Chicken.md",
+    "posts/recipes/Bread/Chapati.md",
+    "posts/recipes/Bread/Coffee Cake.md",
+    "posts/recipes/Bread/Crepes.md",
+    "templates/Template.md",
+    "posts/programming/AWS CLI Install.md",
+    "posts/programming/Fish Remove Bookmarks Manually.md",
+    "posts/other/Bolnagri Keyboard.md",
     "pages/About Me.md",
     "pages/Home.md",
-    "pages/Programming Home Page.md",
     "pages/Recipes.md",
-    "posts/recipes/Crepes.md",
-    "posts/recipes/Vegetarian Chili.md",
-    "posts/recipes/Butter Chicken.md",
-    "posts/recipes/Butternut Squash Soup.md",
-    "posts/recipes/Coffee Cake.md",
-    "posts/recipes/Spaghetti Squash.md",
-    "posts/recipes/Chapati.md",
-    "posts/recipes/Chili.md",
+    "pages/Reviews Homepage.md",
+    "pages/Unsorted Notes.md",
+    "pages/Programming Homepage.md",
+    "pages/Untitled",
+    "drafts/Obsidian-Pelican Setup.md",
+    "posts/recipes/Bread",
+    "posts/recipes/Instant Pot",
+    "drafts",
+    "posts/programming/Programming_test_page.md",
     "pages",
     "images/Untitled",
     "{category}reviews.md",
     "{filename}recipes_homepage.md",
-    "posts/other/20231111_Bolnagri_Keyboard.md",
     "{category}other.md",
     "images/bolnagri_keyboard.png",
-    "{filepath}tags.html.md",
     "posts/other/assets",
     "posts/other",
-    "posts/programming/Programming_test_page.md",
-    "posts/programming/20231010_AWS_CLI_Install.md",
-    "posts/reviews/20231111_keychron_k2_review.md",
-    "posts/reviews/2021110_Garmin_Forerunner_245_Review.md",
-    "{filename}programming_home_page.md",
     "pages/programming",
     "images/dynamic_updated_static.jpg",
     "images/database_backed_dynamic.jpg",
     "images/basic_static.jpg",
     "images/basic_dynamic.jpg",
-    "templates/Template.md",
-    "Programming Home Page.md",
-    "posts/programming",
-    "posts/Reviews/Untitled",
-    "posts/Reviews/20230126_garmin_forerunner_245.md",
-    "posts/Reviews/20230124_keyboard-review.md",
-    "pages",
-    "templates",
-    "Areas/Areas.md~"
+    "posts/programming"
   ]
 }

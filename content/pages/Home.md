@@ -1,10 +1,11 @@
 ---
 Title: Homepage
-URL:
+URL: 
 save_as: index.html
-Date: 2023-11-10 10:13 
-Author: Anthony Herrera
+Date: 2023-11-10 10:13
+tags: homepage
 Summary: Welcome to the homepage!
+Author: Anthony Herrera
 ---
 
 # Anthony Herrera's Website
@@ -15,11 +16,11 @@ Welcome to my site!
 
 Different things I write about:
 
-[Reviews]({category}reviews) : Reviews of things I've used or done
+[[Reviews Homepage]] : Reviews of things I've used or done
  
-[Programming]({category}programming) : Notes on programming
+[[Programming Homepage]] : Notes on programming
 
-[Other]({category}other) : Notes on other things
+[[Unsorted Notes]] : Notes on other things
 
 ## Pages
 

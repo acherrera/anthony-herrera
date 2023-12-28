@@ -24,7 +24,7 @@ This is great for those who have a QWERTY keyboard but also want to type in Hind
 |k           | kx           | क्           | 
 |ka          | k            | क           |
 |ja          | j            | ज           |
-|jha         | J           | झ           |
+|jha<br>         | J           | झ           |
 
 
  If you know English and a bit of Hindi (or the other way around) the above should make a bit of sense. 
@@ -48,4 +48,3 @@ Example: All the ways you could ever want to use the "o" sound:
 | VOWEL+au | O         | ौ               |
 | o        | ALTGR+o   | ओ               |
 | au       | ALTGR+au  | औ               |
-
