@@ -6,6 +6,7 @@
       {
         "id": "10aead32eb1b9ca8",
         "type": "tabs",
+        "dimension": 37.539184952978054,
         "children": [
           {
             "id": "481594a1631ecce5",
@@ -13,9 +14,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/reviews/Keychron K2 Keyboard Review.md",
+                "file": "posts/programming/Obsidian-Pelican Setup.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -24,6 +25,7 @@
       {
         "id": "689f0cefd1b2c127",
         "type": "tabs",
+        "dimension": 62.460815047021946,
         "children": [
           {
             "id": "8f5b05ffbd8dd03e",
@@ -31,6 +33,18 @@
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "e887d347836ef178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Home.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -168,15 +182,23 @@
   },
   "active": "8f5b05ffbd8dd03e",
   "lastOpenFiles": [
-    "posts/reviews/Keychron K2 Keyboard Review.md",
+    "pages/Programming Homepage.md",
+    "pages/Recipes.md",
+    "posts/programming/Obsidian-Pelican Setup.md",
+    "drafts/Obsidian-Pelican Setup_back.md",
+    "posts/programming/assets/obsidian_graph.png",
+    "posts/programming/assets",
+    "posts/programming/assets/obsidian_graph.png",
+    "pages/Home.md",
+    "posts/recipes/Bread/Chapati.md",
     "posts/reviews/Garmin Forerunner 245 Review.md",
+    "posts/reviews/Keychron K2 Keyboard Review.md",
     "posts/recipes/Instant Pot/Vegetarian Chili.md",
     "posts/recipes/Instant Pot/Spaghetti Squash.md",
     "posts/recipes/Instant Pot/Chili.md",
     "posts/recipes/Instant Pot/Chicken Tikka Masala.md",
     "posts/recipes/Instant Pot/Butternut Squash Soup.md",
     "posts/recipes/Instant Pot/Butter Chicken.md",
-    "posts/recipes/Bread/Chapati.md",
     "posts/recipes/Bread/Coffee Cake.md",
     "posts/recipes/Bread/Crepes.md",
     "templates/Template.md",
@@ -184,13 +206,9 @@
     "posts/programming/Fish Remove Bookmarks Manually.md",
     "posts/other/Bolnagri Keyboard.md",
     "pages/About Me.md",
-    "pages/Home.md",
-    "pages/Recipes.md",
     "pages/Reviews Homepage.md",
     "pages/Unsorted Notes.md",
-    "pages/Programming Homepage.md",
     "pages/Untitled",
-    "drafts/Obsidian-Pelican Setup.md",
     "posts/recipes/Bread",
     "posts/recipes/Instant Pot",
     "drafts",
@@ -199,7 +217,6 @@
     "images/Untitled",
     "{category}reviews.md",
     "{filename}recipes_homepage.md",
-    "{category}other.md",
     "images/bolnagri_keyboard.png",
     "posts/other/assets",
     "posts/other",
@@ -207,7 +224,6 @@
     "images/dynamic_updated_static.jpg",
     "images/database_backed_dynamic.jpg",
     "images/basic_static.jpg",
-    "images/basic_dynamic.jpg",
-    "posts/programming"
+    "images/basic_dynamic.jpg"
   ]
 }

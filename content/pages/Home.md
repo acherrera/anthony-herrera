@@ -12,18 +12,16 @@ Author: Anthony Herrera
 
 Welcome to my site!
 
-## Posts
+## Areas
 
 Different things I write about:
 
 [[Reviews Homepage]] : Reviews of things I've used or done
+
+[[Recipes| Recipes]] : Recipes!
  
 [[Programming Homepage]] : Notes on programming
 
 [[Unsorted Notes]] : Notes on other things
 
-## Pages
-
-[[Recipes| Recipes]] : Recipes!
- 
-[[About Me|About Me]]: Who I am
+[[About Me]] : About... me
