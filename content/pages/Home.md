@@ -18,7 +18,7 @@ Different things I write about:
 
 [[Reviews Homepage]] : Reviews of things I've used or done
 
-[[Recipes| Recipes]] : Recipes!
+[[Recipes]] : Recipes!
  
 [[Programming Homepage]] : Notes on programming
 

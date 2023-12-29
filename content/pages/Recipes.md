@@ -24,6 +24,10 @@ instant pot.
 
 [[Chicken Tikka Masala]]: Chicken Tikka Masala recipe. Pretty good.
 
+[[Pulled Pork]] : Quick and easy way to turn a lot of pork into food for the week.
+
+[[Chicken Vindaloo]] - Spicy Indian Dish
+
 # Bread
 
 These are more bread based.

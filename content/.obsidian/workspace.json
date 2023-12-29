@@ -6,7 +6,7 @@
       {
         "id": "10aead32eb1b9ca8",
         "type": "tabs",
-        "dimension": 37.539184952978054,
+        "dimension": 51.64576802507837,
         "children": [
           {
             "id": "481594a1631ecce5",
@@ -19,16 +19,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "689f0cefd1b2c127",
-        "type": "tabs",
-        "dimension": 62.460815047021946,
-        "children": [
+          },
           {
             "id": "8f5b05ffbd8dd03e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/recipes/Instant Pot/Pulled Pork.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a9850cc310b97b95",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -36,14 +41,34 @@
             }
           },
           {
+            "id": "eb09cf50e9477877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Recipes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "689f0cefd1b2c127",
+        "type": "tabs",
+        "dimension": 48.35423197492163,
+        "children": [
+          {
             "id": "e887d347836ef178",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Home.md",
+                "file": "posts/recipes/Instant Pot/Chicken Vindaloo.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -113,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/recipes/Instant Pot/Chicken Vindaloo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/recipes/Instant Pot/Chicken Vindaloo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "posts/recipes/Instant Pot/Chicken Vindaloo.md"
+              }
             }
           },
           {
@@ -180,22 +209,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f5b05ffbd8dd03e",
+  "active": "e887d347836ef178",
   "lastOpenFiles": [
-    "pages/Programming Homepage.md",
     "pages/Recipes.md",
-    "posts/programming/Obsidian-Pelican Setup.md",
     "drafts/Obsidian-Pelican Setup_back.md",
+    "posts/recipes/Instant Pot/Chicken Vindaloo.md",
+    "posts/recipes/Instant Pot/Pulled Pork.md",
+    "posts/programming/Obsidian-Pelican Setup.md",
+    "posts/recipes/Instant Pot/Chili.md",
+    "pages/Home.md",
+    "posts/recipes/Instant Pot/pulled_pork.md",
+    "pages/Programming Homepage.md",
     "posts/programming/assets/obsidian_graph.png",
     "posts/programming/assets",
     "posts/programming/assets/obsidian_graph.png",
-    "pages/Home.md",
     "posts/recipes/Bread/Chapati.md",
     "posts/reviews/Garmin Forerunner 245 Review.md",
     "posts/reviews/Keychron K2 Keyboard Review.md",
     "posts/recipes/Instant Pot/Vegetarian Chili.md",
     "posts/recipes/Instant Pot/Spaghetti Squash.md",
-    "posts/recipes/Instant Pot/Chili.md",
     "posts/recipes/Instant Pot/Chicken Tikka Masala.md",
     "posts/recipes/Instant Pot/Butternut Squash Soup.md",
     "posts/recipes/Instant Pot/Butter Chicken.md",
@@ -212,11 +244,8 @@
     "posts/recipes/Bread",
     "posts/recipes/Instant Pot",
     "drafts",
-    "posts/programming/Programming_test_page.md",
     "pages",
     "images/Untitled",
-    "{category}reviews.md",
-    "{filename}recipes_homepage.md",
     "images/bolnagri_keyboard.png",
     "posts/other/assets",
     "posts/other",
