@@ -11,6 +11,8 @@ Summary: This is the home page for programming notes and ideas
 
 I do a lot of programming related things. AWS, Python, to creating the website that this is hosted on. My hope is that  I can create a centralized location for these things.
 
+[[Vimrc File]] : How my NeoVIM editor is set up
+
 [[Obsidian-Pelican Setup]] : How this website is created and ran. 
 
 [[AWS CLI Install]] : Basic note on how to get AWS CLI.
@@ -18,4 +20,3 @@ I do a lot of programming related things. AWS, Python, to creating the website t
 [[Keychron K2 Keyboard Review]] : The keyboard that I use and love.
 
 [[Fish Remove Bookmarks Manually]] : Weird niche error that can occur with link and the fish terminal.
-

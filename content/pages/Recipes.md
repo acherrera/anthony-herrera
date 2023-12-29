@@ -37,3 +37,9 @@ These are more bread based.
 [[Coffee Cake]]: Cinnamon Sugar coffee cake without too much sugar.
 
 [[Crepes]]: Crepe recipe that I like.
+
+# Misc
+
+Other things that don't have a category
+
+[[Garam Masala]] - Make your own spicy powder. Apparently it's better than store bought?

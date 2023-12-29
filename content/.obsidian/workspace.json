@@ -6,7 +6,6 @@
       {
         "id": "10aead32eb1b9ca8",
         "type": "tabs",
-        "dimension": 51.64576802507837,
         "children": [
           {
             "id": "481594a1631ecce5",
@@ -21,18 +20,6 @@
             }
           },
           {
-            "id": "8f5b05ffbd8dd03e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/recipes/Instant Pot/Pulled Pork.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "a9850cc310b97b95",
             "type": "leaf",
             "state": {
@@ -41,32 +28,31 @@
             }
           },
           {
-            "id": "eb09cf50e9477877",
+            "id": "268f1299ada09024",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Recipes.md",
+                "file": "posts/reviews/Garmin Fenix 7 Review.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
-        "id": "689f0cefd1b2c127",
+        "id": "6cb9ef4b3384b15a",
         "type": "tabs",
-        "dimension": 48.35423197492163,
         "children": [
           {
-            "id": "e887d347836ef178",
+            "id": "8f5b05ffbd8dd03e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/recipes/Instant Pot/Chicken Vindaloo.md",
+                "file": "pages/Reviews Homepage.md",
                 "mode": "source",
                 "source": true
               }
@@ -138,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/recipes/Instant Pot/Chicken Vindaloo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/recipes/Instant Pot/Chicken Vindaloo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "posts/recipes/Instant Pot/Chicken Vindaloo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -209,17 +191,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e887d347836ef178",
+  "active": "a9850cc310b97b95",
   "lastOpenFiles": [
-    "pages/Recipes.md",
-    "drafts/Obsidian-Pelican Setup_back.md",
-    "posts/recipes/Instant Pot/Chicken Vindaloo.md",
-    "posts/recipes/Instant Pot/Pulled Pork.md",
+    "pages/Reviews Homepage.md",
+    "posts/reviews/Garmin Fenix 7 Review.md",
+    "pages/Programming Homepage.md",
+    "posts/programming/Vimrc File.md",
+    "posts/Fenix 7 Review.md",
     "posts/programming/Obsidian-Pelican Setup.md",
+    "templates/Template.md",
+    "posts/recipes/Instant Pot/Pulled Pork.md",
+    "pages/Recipes.md",
+    "posts/recipes/Instant Pot/Garam Masala.md",
     "posts/recipes/Instant Pot/Chili.md",
+    "posts/recipes/Instant Pot/Chicken Vindaloo.md",
+    "drafts/Obsidian-Pelican Setup_back.md",
     "pages/Home.md",
     "posts/recipes/Instant Pot/pulled_pork.md",
-    "pages/Programming Homepage.md",
     "posts/programming/assets/obsidian_graph.png",
     "posts/programming/assets",
     "posts/programming/assets/obsidian_graph.png",
@@ -233,13 +221,7 @@
     "posts/recipes/Instant Pot/Butter Chicken.md",
     "posts/recipes/Bread/Coffee Cake.md",
     "posts/recipes/Bread/Crepes.md",
-    "templates/Template.md",
     "posts/programming/AWS CLI Install.md",
-    "posts/programming/Fish Remove Bookmarks Manually.md",
-    "posts/other/Bolnagri Keyboard.md",
-    "pages/About Me.md",
-    "pages/Reviews Homepage.md",
-    "pages/Unsorted Notes.md",
     "pages/Untitled",
     "posts/recipes/Bread",
     "posts/recipes/Instant Pot",
