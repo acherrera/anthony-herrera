@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Reviews Homepage.md",
+                "file": "posts/recipes/Bread/Chapati.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Reviews Homepage.md",
+                "file": "posts/recipes/Bread/Chapati.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Reviews Homepage.md",
+                "file": "posts/recipes/Bread/Chapati.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Reviews Homepage.md"
+                "file": "posts/recipes/Bread/Chapati.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "a9850cc310b97b95",
   "lastOpenFiles": [
+    "pages/Reviews Homepage.md",
     "posts/reviews/Scarpa Helix Climbing Shoe.md",
     "posts/programming/Obsidian-Pelican Setup.md",
     "images/pages",
@@ -185,7 +186,6 @@
     "pages/Unsorted Notes.md",
     "posts/other/assets/bike_yoke_demo.png",
     "posts/other/assets/brain_adaptor.png",
-    "pages/Reviews Homepage.md",
     "posts/reviews/Garmin Fenix 7 Review.md",
     "pages/Programming Homepage.md",
     "posts/programming/Vimrc File.md",

@@ -26,7 +26,7 @@ This is a really simple recipe and makes a bread that is kind of like a thick to
 Short version of instructions for those that don't like to read a lot or are confident enough to just do it.
 
 * 2 cups atta flour
-* Instructions 
+* water 
 
 For those who maybe don't want wing it or haven't done this many times before.
 * Some extra flour
