@@ -15,7 +15,7 @@
               "state": {
                 "file": "posts/programming/Obsidian-Pelican Setup.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/other/Specialized Epic Brain.md",
+                "file": "pages/Reviews Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/other/Specialized Epic Brain.md",
+                "file": "pages/Reviews Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/other/Specialized Epic Brain.md",
+                "file": "pages/Reviews Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/other/Specialized Epic Brain.md"
+                "file": "pages/Reviews Homepage.md"
               }
             }
           },
@@ -171,21 +171,26 @@
   },
   "active": "a9850cc310b97b95",
   "lastOpenFiles": [
-    "posts/other/assets/brain_adaptor.jpg",
-    "posts/other/assets/bike_yoke_demo.jpg",
-    "pages/Unsorted Notes.md",
+    "posts/reviews/Scarpa Helix Climbing Shoe.md",
+    "posts/programming/Obsidian-Pelican Setup.md",
+    "images/pages",
+    "images/posts",
+    "images/posts/helix_shoe.jpg",
+    "images/ipps_helix_ext_-_m_-_hyb.jpg",
+    "templates/Template.md",
+    "pages/Recipes.md",
     "posts/other/Specialized Epic Brain.md",
+    "images/posts/brain_adaptor.jpg",
+    "images/posts/bike_yoke_demo.jpg",
+    "pages/Unsorted Notes.md",
     "posts/other/assets/bike_yoke_demo.png",
     "posts/other/assets/brain_adaptor.png",
-    "templates/Template.md",
     "pages/Reviews Homepage.md",
     "posts/reviews/Garmin Fenix 7 Review.md",
     "pages/Programming Homepage.md",
     "posts/programming/Vimrc File.md",
     "posts/Fenix 7 Review.md",
-    "posts/programming/Obsidian-Pelican Setup.md",
     "posts/recipes/Instant Pot/Pulled Pork.md",
-    "pages/Recipes.md",
     "posts/recipes/Instant Pot/Garam Masala.md",
     "posts/recipes/Instant Pot/Chili.md",
     "posts/recipes/Instant Pot/Chicken Vindaloo.md",
@@ -202,20 +207,14 @@
     "posts/recipes/Instant Pot/Spaghetti Squash.md",
     "posts/recipes/Instant Pot/Chicken Tikka Masala.md",
     "posts/recipes/Instant Pot/Butternut Squash Soup.md",
-    "posts/recipes/Instant Pot/Butter Chicken.md",
     "pages/Untitled",
     "posts/recipes/Bread",
     "posts/recipes/Instant Pot",
     "drafts",
     "pages",
-    "images/Untitled",
-    "images/bolnagri_keyboard.png",
+    "images/posts/bolnagri_keyboard.png",
     "posts/other/assets",
     "posts/other",
-    "pages/programming",
-    "images/dynamic_updated_static.jpg",
-    "images/database_backed_dynamic.jpg",
-    "images/basic_static.jpg",
-    "images/basic_dynamic.jpg"
+    "images/dynamic_updated_static.jpg"
   ]
 }

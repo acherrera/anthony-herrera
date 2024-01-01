@@ -12,7 +12,7 @@ The Bolnagri keyboard layout is a layout the takes advantage of the QWERTY keybo
 Or, more specifically, it lets you type in devanagari script, which makes up the Hindi Language.
 
 The layout of the keyboard looks like this: 
-![Bolnagri Keyboard Layout](../../images/bolnagri_keyboard.png)
+![Bolnagri Keyboard Layout](bolnagri_keyboard.png)
 
 This is great for those who have a QWERTY keyboard but also want to type in Hindi. The "official" keyboard for Hindi is INSCRIPT which is completely unrelated to the characters in english. Here some example of the Bolnagri keyboards layout
 

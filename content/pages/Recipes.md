@@ -7,6 +7,12 @@ tags: homepage, recipe
 Summary: This is the home page for recipes!
 ---
 
+# Recipes
+
+These are things that I like to make and I keep them on here so that I can share them others and access them myself when needed.
+
+I try to keep comments to very relevant aspects of the recipe. If you would like an essay on butter chicken, look elsewhere.
+
 # Instant Pot
 
 Things that can be made in an instant Pot.
@@ -19,8 +25,7 @@ Things that can be made in an instant Pot.
 
 [[Butternut Squash Soup]]: Quick easy and good soup.
 
-[[Butter Chicken]]: Chicken and butter. Indian food made in the
-instant pot.
+[[Butter Chicken]]: Chicken and butter. 
 
 [[Chicken Tikka Masala]]: Chicken Tikka Masala recipe. Pretty good.
 
