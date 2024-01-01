@@ -13,6 +13,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [
         ('Home', '/'),
         ('Programming', '/pages/programming_homepage.html'),
+        ('Reviews', '/pages/reviews_homepage.html'),
         ('Recipes', '/pages/recipes.html'),
         ('Other', '/pages/unsorted_notes.html'),
         ('Tags', '/tags.html'),
