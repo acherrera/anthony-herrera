@@ -23,17 +23,9 @@
             "id": "a9850cc310b97b95",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "268f1299ada09024",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/reviews/Garmin Fenix 7 Review.md",
+                "file": "posts/other/Specialized Epic Brain.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,24 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "6cb9ef4b3384b15a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8f5b05ffbd8dd03e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Reviews Homepage.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -124,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/other/Specialized Epic Brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/other/Specialized Epic Brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "posts/other/Specialized Epic Brain.md"
+              }
             }
           },
           {
@@ -177,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,13 +171,19 @@
   },
   "active": "a9850cc310b97b95",
   "lastOpenFiles": [
+    "posts/other/assets/brain_adaptor.jpg",
+    "posts/other/assets/bike_yoke_demo.jpg",
+    "pages/Unsorted Notes.md",
+    "posts/other/Specialized Epic Brain.md",
+    "posts/other/assets/bike_yoke_demo.png",
+    "posts/other/assets/brain_adaptor.png",
+    "templates/Template.md",
     "pages/Reviews Homepage.md",
     "posts/reviews/Garmin Fenix 7 Review.md",
     "pages/Programming Homepage.md",
     "posts/programming/Vimrc File.md",
     "posts/Fenix 7 Review.md",
     "posts/programming/Obsidian-Pelican Setup.md",
-    "templates/Template.md",
     "posts/recipes/Instant Pot/Pulled Pork.md",
     "pages/Recipes.md",
     "posts/recipes/Instant Pot/Garam Masala.md",
@@ -219,9 +203,6 @@
     "posts/recipes/Instant Pot/Chicken Tikka Masala.md",
     "posts/recipes/Instant Pot/Butternut Squash Soup.md",
     "posts/recipes/Instant Pot/Butter Chicken.md",
-    "posts/recipes/Bread/Coffee Cake.md",
-    "posts/recipes/Bread/Crepes.md",
-    "posts/programming/AWS CLI Install.md",
     "pages/Untitled",
     "posts/recipes/Bread",
     "posts/recipes/Instant Pot",
