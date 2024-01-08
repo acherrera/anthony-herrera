@@ -27,7 +27,9 @@ Things that can be made in an instant Pot.
 
 [[Butter Chicken]]: Chicken and butter. 
 
-[[Chicken Tikka Masala]]: Chicken Tikka Masala recipe. Pretty good.
+[[Healthy Chicken Tikka Masala]]: Chicken Tikka Masala recipe. Pretty good. Less butter based than traditional Tikka Masala
+
+[[Paneer Veggie Tikka Masala]] : Based on [[Healthy Chicken Tikka Masala]]
 
 [[Pulled Pork]] : Quick and easy way to turn a lot of pork into food for the week.
 

@@ -1,8 +1,11 @@
 ---
-Title: Chicken Tikka Masala
+Title: Healthy Chicken Tikka Masala
 Date: 2023-12-28
-Slug: chicken_tikka_masala
-Tags: food, instant_pot, recipe
+Slug: healthy_chicken_tikka_masala
+tags:
+  - food
+  - instant_pot
+  - recipe
 Author: Anthony Herrera
 Summary: A recipe for Chicken Tikka Masala
 ---
@@ -10,6 +13,8 @@ Summary: A recipe for Chicken Tikka Masala
 # Instant Pot Chicken Tikka Masala
 
 A healthy, easy version of authentic Indian chicken tikka masala made quick in the pressure cooker. Not too spicy, ultra creamy, filled with flavor, and great leftover too!
+
+For a even more healthy version with more veggies, see [[Paneer Veggie Tikka Masala]]
 
 ### Info
 Prep: 10 mins

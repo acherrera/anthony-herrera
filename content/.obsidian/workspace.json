@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/recipes/Bread/Chapati.md",
+                "file": "posts/recipes/Instant Pot/Paneer Veggie Tikka Masala.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7c3a8957d1c75f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/recipes/Instant Pot/Healthy Chicken Tikka Masala.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/recipes/Bread/Chapati.md",
+                "file": "posts/recipes/Instant Pot/Paneer Veggie Tikka Masala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/recipes/Bread/Chapati.md",
+                "file": "posts/recipes/Instant Pot/Paneer Veggie Tikka Masala.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/recipes/Bread/Chapati.md"
+                "file": "posts/recipes/Instant Pot/Paneer Veggie Tikka Masala.md"
               }
             }
           },
@@ -171,15 +183,18 @@
   },
   "active": "a9850cc310b97b95",
   "lastOpenFiles": [
+    "pages/Recipes.md",
+    "posts/recipes/Instant Pot/Healthy Chicken Tikka Masala.md",
+    "posts/programming/Obsidian-Pelican Setup.md",
+    "posts/recipes/Instant Pot/Paneer Veggie Tikka Masala.md",
+    "posts/recipes/Bread/Chapati.md",
     "pages/Reviews Homepage.md",
     "posts/reviews/Scarpa Helix Climbing Shoe.md",
-    "posts/programming/Obsidian-Pelican Setup.md",
     "images/pages",
     "images/posts",
     "images/posts/helix_shoe.jpg",
     "images/ipps_helix_ext_-_m_-_hyb.jpg",
     "templates/Template.md",
-    "pages/Recipes.md",
     "posts/other/Specialized Epic Brain.md",
     "images/posts/brain_adaptor.jpg",
     "images/posts/bike_yoke_demo.jpg",
@@ -200,12 +215,10 @@
     "posts/programming/assets/obsidian_graph.png",
     "posts/programming/assets",
     "posts/programming/assets/obsidian_graph.png",
-    "posts/recipes/Bread/Chapati.md",
     "posts/reviews/Garmin Forerunner 245 Review.md",
     "posts/reviews/Keychron K2 Keyboard Review.md",
     "posts/recipes/Instant Pot/Vegetarian Chili.md",
     "posts/recipes/Instant Pot/Spaghetti Squash.md",
-    "posts/recipes/Instant Pot/Chicken Tikka Masala.md",
     "posts/recipes/Instant Pot/Butternut Squash Soup.md",
     "pages/Untitled",
     "posts/recipes/Bread",
