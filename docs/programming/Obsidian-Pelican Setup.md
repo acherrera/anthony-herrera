@@ -22,7 +22,7 @@ Obsidian is a comprehensive note-taking application designed for Markdown files.
 
 Obsidian gives the ability to see how pages link together:
 
-![[obsidian_graph.png]]
+![obsidian_graph](assets/obsidian_graph.png)
 
 While Pelican can put these files onto the web for others to see.
 

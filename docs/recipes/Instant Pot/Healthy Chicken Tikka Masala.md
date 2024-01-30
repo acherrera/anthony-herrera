@@ -14,7 +14,7 @@ Summary: A recipe for Chicken Tikka Masala
 
 A healthy, easy version of authentic Indian chicken tikka masala made quick in the pressure cooker. Not too spicy, ultra creamy, filled with flavor, and great leftover too!
 
-For a even more healthy version with more veggies, see [[Paneer Veggie Tikka Masala]]
+For a even more healthy version with more veggies, see [Paneer Veggie Tikka Masala](Paneer%20Veggie%20Tikka%20Masala.md)
 
 ### Info
 Prep: 10 mins

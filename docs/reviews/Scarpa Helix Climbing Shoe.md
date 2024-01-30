@@ -17,7 +17,7 @@ First off, who am I? I frequently visit the gym to climb, enjoy socializing with
 
 I ABSOLUTELY LOVE these shoes. Initially, I bought a size that was slightly too big and wore them until the toe wore out. Later, I purchased the correct size, and I also adore those. These shoes aren't highly aggressive and offer ample space for my wide feet to feel comfortable.
 
-![[helix_shoe.jpg]]
+![helix_shoe](../images/posts/helix_shoe.jpg)
 
 I used these shoes extensively in Las Vegas, climbing the red rocks there. Our guide mentioned using the Helix shoes to climb El Capitan. If they were suitable for that climb, I believed they were suitable for me too.
 

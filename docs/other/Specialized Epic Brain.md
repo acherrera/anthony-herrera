@@ -52,7 +52,7 @@ The fix here is to replace the rear shock. Somehow, Specialized still doesn't ha
 Gen 1 shock - You can either replace it with a new shock or you can't. There are two models of rear shock, and they had not yet created a proprietary shock, so it's a drop-in replacement if you have the right model. The model that had the Fox shock cannot be replaced like this.
 
 Gen 2 - This magical piece of equipment is the key to all your dreams.
-![[brain_adaptor.jpg]]
+![brain_adaptor](../images/posts/brain_adaptor.jpg)
 
 And can be found [here](https://www.bikeyoke.de/en/epic-2018-2020.html)
 
@@ -61,7 +61,7 @@ This is an adapter for the Gen 2 Specialized Epic that allows a normal shock to 
 Gen 3 - The people at Bike Yoke promised that they would create a new Yoke for the Gen 3 model and even showcased a version of it. However, it has not come to the market yet, and I eagerly await the sale of the adapter.
 
 Proof that a prototype has been made: 
-![[bike_yoke_demo.jpg]]
+![bike_yoke_demo](../images/posts/bike_yoke_demo.jpg)
 
 Originally found [here](https://www.facebook.com/BikeYoke)
 

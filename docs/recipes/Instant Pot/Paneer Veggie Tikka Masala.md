@@ -14,7 +14,7 @@ Summary: A recipe for Paneer Veggie Tikka Masala
 
 A healthy, easy version of authentic Indian chicken tikka masala made quick in the pressure cooker. Not too spicy, ultra creamy, filled with flavor, and great leftover too!
 
-For a less veggie-based recipe, see [[Healthy Chicken Tikka Masala]]
+For a less veggie-based recipe, see [Healthy Chicken Tikka Masala](Healthy%20Chicken%20Tikka%20Masala.md)
 
 It's not really as buttery as authentic tikka masala and it also has lots of veggies and paneer instead of meat. 
 But, it's quite a bit healthier and really, really good.

@@ -1,0 +1,11 @@
+site_name: My Docs
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+
+extra:
+  analytics:
+    provider: google
+    property: G-2VE7CHY0WH
