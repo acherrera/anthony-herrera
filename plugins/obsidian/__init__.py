@@ -1,1 +1,0 @@
-from .obsidian import *  # noqa
