@@ -3,7 +3,6 @@ Title: Chili Recipe
 Date: 2023-11-12
 tags:
   - recipe/instant_pot
-  - recipe
 Summary: A Recipe for Chili
 ---
 

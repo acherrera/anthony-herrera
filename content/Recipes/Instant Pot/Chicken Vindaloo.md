@@ -3,7 +3,6 @@ Title: Chicken Vindaloo
 Date: 2023-12-29
 tags:
   - recipe/instant_pot
-  - recipe
   - recipe/indian
 Summary: Spicy Indian chicken vinadloo
 ---

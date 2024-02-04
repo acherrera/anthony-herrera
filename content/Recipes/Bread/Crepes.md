@@ -3,7 +3,7 @@ Title: Crepe Recipe
 Date: 2023-12-19
 Slug: crepe_recipe
 tags:
-  - recipe
+  - recipe/baking
 Summary: Crepe recipe that I like
 ---
 

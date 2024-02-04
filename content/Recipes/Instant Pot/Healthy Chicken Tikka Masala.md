@@ -4,7 +4,6 @@ Date: 2023-12-28
 Slug: healthy_chicken_tikka_masala
 tags:
   - recipe/instant_pot
-  - recipe
 Summary: A recipe for Chicken Tikka Masala
 ---
 

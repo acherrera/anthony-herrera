@@ -2,7 +2,6 @@
 Title: Vegetarian Chili Recipe
 tags:
   - recipe/instant_pot
-  - recipe
   - recipe/vegetarian
 Summary: A Recipe for Vegetarian Chili
 ---

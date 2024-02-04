@@ -4,7 +4,6 @@ Date: 2024-01-7
 Slug: paneer_veggie_tikka_masala
 tags:
   - recipe/instant_pot
-  - recipe
 Summary: A recipe for Paneer Veggie Tikka Masala
 ---
 

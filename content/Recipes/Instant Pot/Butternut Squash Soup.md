@@ -3,7 +3,6 @@ Title: Butternut Squash Soup
 Date: 2023-12-03
 tags:
   - recipe/instant_pot
-  - recipe
   - recipe/vegetarian
 Summary: A recipe for butternut squash soup that is quick and easy.
 ---

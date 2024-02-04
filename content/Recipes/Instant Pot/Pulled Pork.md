@@ -3,7 +3,6 @@ Title: Pulled Pork
 Date: 2023-12-29
 tags:
   - recipe/instant_pot
-  - recipe
 Summary: A recipe for pulled pork
 ---
 

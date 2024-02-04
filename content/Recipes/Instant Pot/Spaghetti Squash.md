@@ -4,7 +4,6 @@ Date: 2023-11-13
 Slug: spaghetti_squash_instant_pot
 tags:
   - recipe/instant_pot
-  - recipe
   - recipe/vegetarian
 Summary: Making spaghetti squash
 ---

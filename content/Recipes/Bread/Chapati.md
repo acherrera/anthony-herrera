@@ -3,7 +3,6 @@ Title: Chapati Recipe
 Date: 2023-11-13
 Slug: chapati_recipe
 tags:
-  - recipe
   - recipe/vegetarian
   - recipe/bread
   - recipe/baking

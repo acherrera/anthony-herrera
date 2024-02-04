@@ -37,13 +37,13 @@ Obsidian's link format. Ignore the `\` character:
 
 ```markdown
 [[some_file.md]\]
-[some_file](../some_file.md)
+[[../some_file.md|some_file]]
 ```
 
 Pelican's link format:
 
 ```markdown
-[some_file.md]({filename}/some_file.md)
+[[{filename}/some_file.md|some_file.md]]
 ```
 
 To bridge this gap, a helpful plugin has been developed: Pelican-Obsidian Plugin. It resolves the discrepancies between the two systems, ensuring smoother integration. Additionally, an update for parsing pages has been proposed here.

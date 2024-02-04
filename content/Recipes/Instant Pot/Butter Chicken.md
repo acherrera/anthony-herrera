@@ -2,7 +2,6 @@
 Title: Butter Chicken
 Date: 2023-12-16
 tags:
-  - recipe
   - recipe/indian
   - recipe/instant_pot
 Summary: A recipe for butter chicken
