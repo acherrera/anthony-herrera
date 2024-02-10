@@ -3,8 +3,9 @@ tags:
   - recipe/baking
 ---
 
-Breakfast Casserole
+Breakfast Casserole 1. Not to be confused with [[Breakfast Casserole 2]]
 
+This is the one that Anthony made.
 
 Serves 4 pretty well
 
