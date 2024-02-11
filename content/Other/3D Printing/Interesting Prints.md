@@ -24,3 +24,11 @@ Related, [here](https://www.thingiverse.com/thing:4784783) and [here](https://ww
 #### Ryobi 40V battery holder
 
 Found [here](https://www.thingiverse.com/thing:1595930) This is a print that hold Ryobi 40V batteries. I have quite a few of these batteries and they are starting to get out of hand. So, batter holder wall!
+
+#### Can Dispenser
+
+[Link](https://www.thingiverse.com/thing:5905359) - I printed off the 6 can version of this and put it together and discovered that cans can be different sizes in different countries. Which led to [this](https://www.thingiverse.com/thing:5419326) expansion print and everything was good.
+
+#### Bike Brake Space
+
+[link](https://www.thingiverse.com/thing:2140945) This one is a little niche - these into the calipers of mountain bike brakes and keep the brake pads separated. These are very useful when transporting bikes as having the pads touch can cause issues. At very least it's a pain to try and separate them.
