@@ -6,10 +6,7 @@ const config: QuartzConfig = {
     pageTitle: "Anthony Herrera",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "google",
-      tagId: "G-2VE7CHY0WH"
-    },
+    analytics: { provider: "plausible" },
     baseUrl: "anthony-herrera.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
