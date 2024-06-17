@@ -29,16 +29,14 @@ Short version of instructions for those that don't like to read a lot or are con
 
 * 2 cups atta flour
 * water 
-
-For those who maybe don't want wing it or haven't done this many times before.
 * Some extra flour
 
 **Instructions**
 
 1. Mix water and atta flour until it's not sticking to your hands. Use more flour or water if you need to.
-2. Divide flour it part (12 is what is recommended)
-3. Don't let it get too dry - use a damp towl / paper town to cover if needed
-4. Roll balls out into circles
+2. Divide flour into parts (12 is what is recommended)
+3. Don't let it get too dry - use a damp towl / paper towl to cover if needed
+4. Roll balls out into circles with rolling p8in
 5. Cook circles on high heat and they should puff up.
 6. Eat the flour circles.
 
