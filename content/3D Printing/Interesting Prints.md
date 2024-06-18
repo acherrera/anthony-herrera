@@ -31,4 +31,4 @@ Found [here](https://www.thingiverse.com/thing:1595930) This is a print that hol
 
 #### Bike Brake Space
 
-[link](https://www.thingiverse.com/thing:2140945) This one is a little niche - these into the calipers of mountain bike brakes and keep the brake pads separated. These are very useful when transporting bikes as having the pads touch can cause issues. At very least it's a pain to try and separate them.
+[link](https://www.thingiverse.com/thing:2140945) This one is a little niche - these fit into the calipers of mountain bike brakes and keep the brake pads separated. These are very useful when transporting bikes as having the pads touch can cause issues. At very least it's a pain to try and separate them.

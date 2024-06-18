@@ -4,13 +4,13 @@ date: 2023-01-24 7:40
 tags: homepage
 summary: Some Information About Anthony Herrera
 ---
-
-
 # About Me
 
 I am a data engineer, mechanical engineer, flew planes for a bit, mountain biker and rock climber. I am passionate about programming efficiently and using Python to extract and organize data to pull out insights.
 
-![[../output/images/herrera_anthony_small.jpg|herrera_anthony_small]]
+As of early 2024 I'm also a dad. 
+
+![[herrera_anthony_small.jpg]]
 
 Resumes typically limit you to a few skills. Thankfully, I do not have such
 limits here. I have worked at a start up building drone and attaching sensors,

@@ -12,12 +12,16 @@ Welcome to my site!
 
 This is used to publish things that I do and think. These are notes and items that I want to share with the world. Thanks for coming - have a look around!
 
+[[About Me]] - About me!
+
 Some places to start!
+
+[[Reviews]]
+
+[[Recipes]]
 
 [[Project Management]]
 
 [[Programming]]
 
-[[Hacking Learning]]
-
-[[Hacking Examples]]
+[[Dirt Trail Maintenance]]
