@@ -8,6 +8,8 @@ source: https://easyretro.io/
 
 Can use the [4 "L" Retro](https://www.teamretro.com/retrospectives/4ls-retrospective) method with easy retro to get team feedback without having to ask everyone directly.
 
+Website is located [here](https://easyretro.io)
+
 The 4 "L"'s are:
 * Liked: what did people like about the last sprint
 * Learned: What were some learnings that happened?

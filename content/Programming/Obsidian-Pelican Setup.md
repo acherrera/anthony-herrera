@@ -7,6 +7,8 @@ Summary: How I've setup Obsidian to work with Pelican
 ---
 # Obsidian and Pelican: A Powerful Combination
 
+**NOTE** - I have moved away from this method and keep it here for reference only. I highly recommend https://quartz.jzhao.xyz/ 
+
 Obsidian and Pelican are two versatile tools, enabling efficient note-taking in Markdown and seamless website publication from Markdown files, respectively. This integration can significantly enhance productivity and organization for users who seek a static website system in Python coupled with a robust note-taking platform.
 
 ## Pelican: Creating Static Websites
