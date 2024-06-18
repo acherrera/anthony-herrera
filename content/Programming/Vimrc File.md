@@ -1,6 +1,6 @@
 ---
-Title: Vimrc File
-Date: 2023-12-29 11:07
+title: Vimrc File
+date: 2023-12-29 11:07
 tags:
   - programming/linux
   - ubuntu
@@ -8,7 +8,7 @@ tags:
   - vim
   - neovim
 Slug: vimrc_file
-Summary: My vimrc set up
+summary: My vimrc set up
 ---
 
 # Vimrc File

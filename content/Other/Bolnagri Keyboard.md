@@ -1,9 +1,9 @@
 ---
-Title: Bolnagri Keyboard Layout
-Date: 2023-11-11 18:10
+title: Bolnagri Keyboard Layout
+date: 2023-11-11 18:10
 Slug: bolnargi_keyboard_layout
-Summary: Short post going over the basics of Hindi
-Tags: hindi, language, learning
+summary: Short post going over the basics of Hindi
+tags: hindi, language, learning
 ---
 # What is Bolnagri?
 

@@ -1,10 +1,10 @@
 ---
-Title: Garmin Forerunner 245 Review
-Date: 2023-01-26 17:39
-Tags: reviews 
-Summary: Thoughts on Garmin Forerunner 245
+title: Garmin Forerunner 245 Review
+date: 2023-01-26 17:39
+tags: reviews 
+summary: Thoughts on Garmin Forerunner 245
 ---
-
+tags:
 # Garmin ForeRunner 245 Review
 
 This is a review of the Garmin Forerunner 245 - a watch made by Garmin and this watch is built for one thing - recording

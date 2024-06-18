@@ -1,12 +1,12 @@
 ---
-Title: Garmin Fenix 7 Review
-Date: 2023-12-29 11:14
+title: Garmin Fenix 7 Review
+date: 2023-12-29 11:14
 tags:
   - garmin
   - reviews
   - watch
 Slug: fenix_7_review
-Summary: Summary here
+summary: Summary here
 ---
 # Garmin Fenix 7 Review
 

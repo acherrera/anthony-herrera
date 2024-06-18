@@ -1,9 +1,9 @@
 ---
-Title: Vegetarian Chili Recipe
+title: Vegetarian Chili Recipe
 tags:
   - recipe/instant_pot
   - recipe/vegetarian
-Summary: A Recipe for Vegetarian Chili
+summary: A Recipe for Vegetarian Chili
 ---
 
 # Vegetarian Chili

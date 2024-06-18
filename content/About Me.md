@@ -1,8 +1,8 @@
 ---
-Title: About Me
-Date: 2023-01-24 7:40
+title: About Me
+date: 2023-01-24 7:40
 tags: homepage
-Summary: Some Information About Anthony Herrera
+summary: Some Information About Anthony Herrera
 ---
 
 

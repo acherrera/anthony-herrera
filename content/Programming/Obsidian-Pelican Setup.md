@@ -1,9 +1,9 @@
 ---
-Title: Obsidian Pelican Setup
-Date: 2023-12-28 08:50
+title: Obsidian Pelican Setup
+date: 2023-12-28 08:50
 Slug: obsidian_pelican_setup
 tags: programming, website
-Summary: How I've setup Obsidian to work with Pelican
+summary: How I've setup Obsidian to work with Pelican
 ---
 # Obsidian and Pelican: A Powerful Combination
 

@@ -1,10 +1,10 @@
 ---
-Title: Programming
-Date: 2024-06-18 07:00
+title: Programming
+date: 2024-06-18 07:00
 tags:
   - programming
   - homepage
-Summary:
+summary:
 ---
 
 # Programming
@@ -24,3 +24,11 @@ Then I discovered you could _RUN A FILE_ and not only program "interactively". T
 [[Obsidian-Pelican Setup]] - My first attempt to create a website from Obsidian
 
 [[Vimrc File]] - How I configure VIM
+
+## Other Homepages
+
+These pages have more links!
+
+[[Hacking Learning]]
+
+[[Hacking Examples]]

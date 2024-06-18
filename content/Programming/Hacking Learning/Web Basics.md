@@ -62,7 +62,7 @@ The header of the response will also contain interesting information. Should che
     Content-Length: 28
     Content-Type: application/javascript; charset=utf-8
     Last-Modified: Wed, 12 Feb 2020 12:51:44 GMT
-    Date: Thu, 27 Feb 2020 21:47:30 GMT
+    date: Thu, 27 Feb 2020 21:47:30 GMT
 
     console.log("Hello, World!")
 ```

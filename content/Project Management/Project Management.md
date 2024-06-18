@@ -1,10 +1,10 @@
 ---
-Title: Project Management
-Date: 2024-06-18 06:34
+title: Project Management
+date: 2024-06-18 06:34
 tags:
   - productivity_moc/management
   - homepage
-Summary: How to manage projects
+summary: How to manage projects
 ---
 
 # Project Management

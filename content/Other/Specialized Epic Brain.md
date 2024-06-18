@@ -1,9 +1,9 @@
 ---
-Title: Specialized Epic Brain
-Date: 2024-01-01 10:37
+title: Specialized Epic Brain
+date: 2024-01-01 10:37
 tags: cycling, mountain_biking
 Slug: specialized_epic_brain
-Summary: Just a rant about the specialized epic brain
+summary: Just a rant about the specialized epic brain
 ---
 
 # Specialized Epic Brain System

@@ -1,11 +1,9 @@
 ---
-Title: Homepage
-URL: 
-save_as: index.html
-Date: 2023-11-10 10:13
+title: Homepage
+date: 2023-11-10 10:13
 tags:
   - homepage
-Summary: Welcome to the homepage!
+summary: Welcome to the homepage!
 ---
 
 # Anthony Herrera's Website
@@ -19,3 +17,7 @@ Some places to start!
 [[Project Management]]
 
 [[Programming]]
+
+[[Hacking Learning]]
+
+[[Hacking Examples]]

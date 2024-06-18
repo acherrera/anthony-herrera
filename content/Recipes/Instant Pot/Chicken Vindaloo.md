@@ -1,10 +1,10 @@
 ---
-Title: Chicken Vindaloo
-Date: 2023-12-29
+title: Chicken Vindaloo
+date: 2023-12-29
 tags:
   - recipe/instant_pot
   - recipe/indian
-Summary: Spicy Indian chicken vinadloo
+summary: Spicy Indian chicken vinadloo
 ---
 
 Very good. Could be considered only two servings if you were really, really hungry. IE: at least double it if you're having people over. 

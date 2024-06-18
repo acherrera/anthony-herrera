@@ -1,9 +1,9 @@
 ---
-Title: Chili Recipe
-Date: 2023-11-12
+title: Chili Recipe
+date: 2023-11-12
 tags:
   - recipe/instant_pot
-Summary: A Recipe for Chili
+summary: A Recipe for Chili
 ---
 
 

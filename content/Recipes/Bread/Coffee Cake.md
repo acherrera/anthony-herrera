@@ -1,10 +1,10 @@
 ---
-Title: Favorite Coffee Cake
-Date: 2023-11-19
+title: Favorite Coffee Cake
+date: 2023-11-19
 Slug: favorite-coffee-cake-recipe
 tags:
   - recipe/baking
-Summary: A delicious coffee cake recipe that's perfect for any occasion.
+summary: A delicious coffee cake recipe that's perfect for any occasion.
 ---
 # FAVORITE COFFEE CAKE
 

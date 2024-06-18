@@ -1,12 +1,12 @@
 ---
-Title: Scarpa Helix Climbing Shoe Review
-Date: 2024-01-01
+title: Scarpa Helix Climbing Shoe Review
+date: 2024-01-01
 Slug: scarpa_helix_climbing_shoe_review
 tags:
   - reviews
   - climbing
   - outdoor
-Summary: My short review of these fantastic shoes
+summary: My short review of these fantastic shoes
 ---
 
 

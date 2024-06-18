@@ -1,11 +1,10 @@
 ---
-Title: Manually Remove Fish Bookmarks
-Date: 2023-11-12
+title: Manually Remove Fish Bookmarks
+date: 2023-11-12
 Slug: manual_remove_fish_bookmarks
-Tags: programming, programming/linux, programming/fish_terminal, terminal
-Summary: How to remove bookmarks from the fish terminal when directory is already removed.
+tags: programming, programming/linux, programming/fish_terminal, terminal
+summary: How to remove bookmarks from the fish terminal when directory is already removed.
 ---
-
 # Manually Remove Bookmarks From Fish 
 
 Specifcally, this is using the `dangerous` theme.

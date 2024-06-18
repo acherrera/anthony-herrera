@@ -1,11 +1,10 @@
 ---
-Title: KeyChron K2 Review
-Date: 2023-01-24 7:27
-Tags: reviews
+title: KeyChron K2 Review
+date: 2023-01-24 7:27
+tags: reviews
 Slug: keychron-k2-review
-Summary: Thoughts on the Keychron K2
+summary: Thoughts on the Keychron K2
 ---
-
 # Keyboard Review
 
 This is a review of the KeyChron K2 keyboard that I have been using for the last year

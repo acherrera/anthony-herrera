@@ -1,10 +1,10 @@
 ---
-Title: Healthy Chicken Tikka Masala
-Date: 2023-12-28
+title: Healthy Chicken Tikka Masala
+date: 2023-12-28
 Slug: healthy_chicken_tikka_masala
 tags:
   - recipe/instant_pot
-Summary: A recipe for Chicken Tikka Masala
+summary: A recipe for Chicken Tikka Masala
 ---
 
 # Instant Pot Chicken Tikka Masala

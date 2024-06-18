@@ -1,10 +1,10 @@
 ---
-Title: Paneer Veggie Tikka Masala
-Date: 2024-01-7
+title: Paneer Veggie Tikka Masala
+date: 2024-01-7
 Slug: paneer_veggie_tikka_masala
 tags:
   - recipe/instant_pot
-Summary: A recipe for Paneer Veggie Tikka Masala
+summary: A recipe for Paneer Veggie Tikka Masala
 ---
 
 # Instant Pot Chicken Tikka Masala

@@ -1,11 +1,11 @@
 ---
-Title: Spaghetti Squash Instant Pot
-Date: 2023-11-13
+title: Spaghetti Squash Instant Pot
+date: 2023-11-13
 Slug: spaghetti_squash_instant_pot
 tags:
   - recipe/instant_pot
   - recipe/vegetarian
-Summary: Making spaghetti squash
+summary: Making spaghetti squash
 ---
 
 

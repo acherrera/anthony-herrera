@@ -1,10 +1,10 @@
 ---
-Title: Crepe Recipe
-Date: 2023-12-19
+title: Crepe Recipe
+date: 2023-12-19
 Slug: crepe_recipe
 tags:
   - recipe/baking
-Summary: Crepe recipe that I like
+summary: Crepe recipe that I like
 ---
 
 # Crêpes
