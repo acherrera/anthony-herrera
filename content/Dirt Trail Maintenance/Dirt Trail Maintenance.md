@@ -15,4 +15,5 @@ The micro power tool selection is interesting and evolving very quickly with the
 For example, with electric chainsaw, you can put them in a backpack and not worry about hot exhaust or leaking fluid.
 
 [[Brush Mowers]]
+
 [[Honey Suckle Removal]]

@@ -16,6 +16,8 @@ These are recipes that require an Instant pot to create.
 
 [[Chicken Vindaloo]]
 
+[[Chili]]
+
 [[Healthy Chicken Tikka Masala]]
 
 [[Paneer Veggie Tikka Masala]]
