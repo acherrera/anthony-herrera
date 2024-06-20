@@ -1,6 +1,7 @@
 ---
 tags:
-  - productivity_moc
+  - productivity
+  - Obsidian
 creation_date: 2024-05-29 09:00
 summary: How Obsidian is set up
 ---
@@ -66,3 +67,7 @@ Date format: `YYYY/MM-MMM/YYYY-MM-DD-dddd`
 New file location: `Timestamps/Daily_notes`
 
 Template File location: `templates/notes_daily_template`
+
+## Pasting Images
+
+Under `Settings > Files and Links` set the default location for new attachments to be "subfolder under current" and name the subfolder "assets".

@@ -2,7 +2,10 @@
 title: Obsidian Pelican Setup
 date: 2023-12-28 08:50
 Slug: obsidian_pelican_setup
-tags: programming, website
+tags:
+  - programming
+  - website
+  - Obsidian
 summary: How I've setup Obsidian to work with Pelican
 ---
 # Obsidian and Pelican: A Powerful Combination
@@ -23,7 +26,7 @@ Obsidian is a comprehensive note-taking application designed for Markdown files.
 
 Obsidian gives the ability to see how pages link together:
 
-![[assets/obsidian_graph.png]]
+![[obsidian_graph.png]]
 
 While Pelican can put these files onto the web for others to see.
 

@@ -19,10 +19,6 @@ Then I discovered you could _RUN A FILE_ and not only program "interactively". T
 
 [[NVIM On Windows]] - Diving into the fun world of making NVIM work on Window 
 
-[[Obsidian Setup]] - How I set up my Obsidian
-
-[[Obsidian-Pelican Setup]] - My first attempt to create a website from Obsidian
-
 [[Vimrc File]] - How I configure VIM
 
 ## Other Homepages
@@ -32,3 +28,5 @@ These pages have more links!
 [[Hacking Learning]]
 
 [[Hacking Examples]]
+
+[[Obsidian]]

@@ -12,6 +12,8 @@ summary: Thoughts on walk behind brush mowers
 Examples of walk behind brush mowers include the DR Field and Brush Mower, Billy Goat Outback Brush Cutter. 
 These machines are designed to cut through thick brush and tall grass.
 
+![[brush_mower.png]]
+
 When used for trail maintenance however, they can be hard to maneuver in tight spaces and may not be suitable for steep slopes.
 They are also far too large for the average person to bring deep into the woods, so their use is limited to areas that are easily accessible by vehicle.
 
@@ -32,6 +34,6 @@ However, the mower is heavy and difficult to maneuver in tight spaces. In additi
 ## Conclusion
 
 While that is a lot of negatives, the brush mowers are a ton of fun to operate.
-If you did not have to walk behind them, they would probaby be one of the better tools for trail maintenance.
+If you did not have to walk behind them, they would probably be one of the better tools for trail maintenance.
 However, the weight and complexity of the machines make them less than ideal for individuals doing trail maintenance. 
 Certainly not a tool I would recommend going out and purchasing for the average user.

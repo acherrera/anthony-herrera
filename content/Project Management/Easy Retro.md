@@ -1,6 +1,6 @@
 ---
 tags:
-  - productivity_moc/management
+  - productivity/management
 creation_date: 2023-11-06 08:22
 source: https://easyretro.io/
 ---

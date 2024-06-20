@@ -1,6 +1,6 @@
 ---
 tags:
-  - programming_moc
+  - programming
   - programming/linux
   - programming/hacking/networking
 ---

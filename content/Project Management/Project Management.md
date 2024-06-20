@@ -2,7 +2,7 @@
 title: Project Management
 date: 2024-06-18 06:34
 tags:
-  - productivity_moc/management
+  - productivity/management
   - homepage
 summary: How to manage projects
 ---

@@ -1,7 +1,7 @@
 ---
 tags:
   - unsorted_moc
-  - website_moc/to_publish
+  - website/to_publish
 creation_date: 2024-06-13 10:45
 summary: Things I've learned about honey suckle removal
 ---

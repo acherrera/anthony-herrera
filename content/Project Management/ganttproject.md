@@ -1,6 +1,6 @@
 ---
 tags:
-  - productivity_moc/management
+  - productivity/management
 ---
 
 
